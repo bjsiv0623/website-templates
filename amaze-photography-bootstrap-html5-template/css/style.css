@@ -1016,7 +1016,7 @@ background-position-y: 70px;
 	position: absolute;
 	font-family: FontAwesome;
 	font-size: 1.125em;
-	color: #F74D4D;
+	color: #43be53;
 	left: 0px;
 	top: 3px;
 }
@@ -1518,7 +1518,7 @@ transition: all .3s;
 
 #filters ul li a:hover h5, #filters ul li a.active h5 {
     background: #000000;
-    color: #FEE16F;
+    color: #4a86e0;
     text-decoration: none;
     border: #000000 solid 1px;
 }
@@ -2059,7 +2059,7 @@ div.mc-image {
     height:100%;
     left:1px;
     top:0;
-    border-right:1px solid #F74D4D;
+    border-right:1px solid #43be53;
     z-index:-1;
 } 
 
@@ -2071,7 +2071,7 @@ div.mc-image {
     height:100px;
     left:1px;
     bottom:-105px;
-    border-right:1px dashed #F74D4D;
+    border-right:1px dashed #43be53;
     z-index:-1;
 } 
 
@@ -2085,7 +2085,7 @@ div.mc-image {
     font-size:21px;
     font-weight:400;
     color: #000;
-    background: #FEE16F;
+    background: #4a86e0;
     border-radius:5px;
 }
 
@@ -2180,7 +2180,7 @@ div.mc-image {
     height:80px;
     left:10px;
     text-align:center;
-    color: #FEE16F;
+    color: #4a86e0;
     -webkit-transition:color .3s ease-out;
     transition:color .3s ease-out;
 }
@@ -2252,7 +2252,7 @@ div.mc-image {
     font-family:'FontAwesome';
     font-size:21px;
     line-height:21px;
-    color: #FEE16F;
+    color: #4a86e0;
     vertical-align:middle;
     -webkit-transition:padding .3s ease-out;
     transition:padding .3s ease-out;
