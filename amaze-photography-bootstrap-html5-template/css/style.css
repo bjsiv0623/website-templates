@@ -78,13 +78,13 @@ a, a:hover, a:active {
   height: 100%;
 }
 .item:nth-child(1) {
-  background: darkred;
+  background: #4a86e0;
 }
 .item:nth-child(2) {
-  background: red;
+  background: #4a86e0;
 }
 .item:nth-child(3) {
-  background: orange;
+  background: #4a86e0;
 }
 .caption {
 position: absolute;
@@ -102,14 +102,14 @@ top: 64%;
 }
 .carousel-indicators li { 
   background-color: rgba(0,0,0,0);
-  border: 1px solid #FEE16F;
+  border: 2px solid #fff;
   border-radius: 0;
 }
 .carousel-indicators .active { 
-  background-color: #FEE16F;
+  background-color: #fff;
 }
 .caption h2{
-color:#FFE270;
+color:#fff;
 line-height:45px;
 font-size: 50px;
 }
@@ -230,7 +230,7 @@ figure.effect-oscar h2 {
 	transition: transform 0.35s;
 	-webkit-transform: translate3d(0,100%,0);
 	transform: translate3d(0,100%,0);
-	color: #BEA726;
+	color: #fff;
 }
 
 figure.effect-oscar figcaption::before,
@@ -328,7 +328,7 @@ p {
 	
     font-size: 28px;
     line-height: 50px;
-    color: #FF6C71;
+    color: #2e558f;
 }
 
 .res-nav_click {
@@ -404,7 +404,7 @@ p {
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-    color: #FEE16F;
+    color: #3d71be;
     background-color: transparent;
     border-radius: 4px;
 }
@@ -651,7 +651,7 @@ div#main-nav {
 }
 
 .service_icon i {
-  color: #FEE16F;
+  color: #2e558f;
 font-size: 40px;
 margin-top: 0;
 position: relative;
@@ -673,7 +673,7 @@ color:#fff;
 }
 .service_block p {
     font-size: 16px;
-    color: #A5A5A5;
+    color: #fff;
     margin: 0 0 35px 0; 
 }
 	
